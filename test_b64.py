@@ -1,0 +1,1 @@
+print('base64 single line works')
